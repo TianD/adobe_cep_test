@@ -1,0 +1,1 @@
+xcopy com.n-axis.test-python C:\Users\29808\AppData\Roaming\Adobe\CEP\extensions\com.n-axis.test-python\ /S /C /Y
